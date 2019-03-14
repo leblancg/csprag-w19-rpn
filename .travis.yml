@@ -1,3 +1,3 @@
 language: python
 python: "3.5"
-script: python333 test_rpn
+script: python test_rpn
